@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-st.sidebar.title("Whatsapp Chat Analyzer")
+st.sidebar.title("WhatsApp Chat Sentiment Analysis")
 
 # this is for uploading a file
 
